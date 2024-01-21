@@ -52,6 +52,8 @@ npm run build
 npm run dev
 
 # visit http://localhost:3000
+
+# kill npx kill-port 300
 ```
 
 ### Hosted version of Open Custom GPT
